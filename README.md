@@ -19,7 +19,7 @@ Focused on writing clean code, solving real problems, and shipping production-re
 
 ---
 
-# 🛠️ Skills
+#  Skills
 
 ### 🎨 Frontend
 - React.js, JSX  
