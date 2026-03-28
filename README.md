@@ -11,7 +11,7 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 I’m a MERN Stack Developer who builds clean, scalable applications using **React, Node, Express, and MongoDB**.  
 Strong in **JavaScript, Redux Toolkit**, real-world UI building, and API integrations.
 
