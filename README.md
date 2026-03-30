@@ -21,7 +21,7 @@ Focused on writing clean code, solving real problems, and shipping production-re
 
 #  Skills
 
-### 🎨 Frontend
+###  Frontend
 - React.js, JSX  
 - JavaScript (ES6+)  
 - React Hooks (useState, useEffect, useMemo, useCallback)  
