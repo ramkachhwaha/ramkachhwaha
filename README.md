@@ -29,7 +29,7 @@ Focused on writing clean code, solving real problems, and shipping production-re
 - Axios / Fetch  
 - HTML5, CSS3, Responsive UI  
 
-### 🧠 State Management
+###  State Management
 - Redux Toolkit  
 - redux-persist  
 - Redux Thunk  
