@@ -34,7 +34,7 @@ Focused on writing clean code, solving real problems, and shipping production-re
 - redux-persist  
 - Redux Thunk  
 
-### ⚙️ Backend
+###  Backend
 - Node.js  
 - Express.js (APIs, Routing, Middleware)  
 - REST API Development  
