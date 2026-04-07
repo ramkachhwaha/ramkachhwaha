@@ -40,7 +40,7 @@ Focused on writing clean code, solving real problems, and shipping production-re
 - REST API Development  
 - MVC Pattern Basics  
 
-### 🗄 Database
+###  Database
 - MongoDB (CRUD, Aggregations, Atlas)  
 - MySQL (Basics)
 
