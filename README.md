@@ -44,7 +44,7 @@ Focused on writing clean code, solving real problems, and shipping production-re
 - MongoDB (CRUD, Aggregations, Atlas)  
 - MySQL (Basics)
 
-### 🧰 Tools
+###  Tools
 - Git & GitHub  
 - VS Code  
 - Postman  
