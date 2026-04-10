@@ -52,7 +52,7 @@ Focused on writing clean code, solving real problems, and shipping production-re
 
 ---
 
-# 🚀 Projects
+#  Projects
 <!-- 
 ## 🛒 MERN E-Commerce Module
 - Product CRUD (MongoDB)  
