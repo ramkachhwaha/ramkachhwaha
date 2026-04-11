@@ -64,7 +64,7 @@ Focused on writing clean code, solving real problems, and shipping production-re
 
 --- -->
 
-## 🛍️ React E-Commerce App
+##  React E-Commerce App
 - Product listing, filters, cart, checkout  
 - redux-persist cart  
 - Axios interceptors  
