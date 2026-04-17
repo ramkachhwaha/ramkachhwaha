@@ -74,7 +74,7 @@ Focused on writing clean code, solving real problems, and shipping production-re
 
 ---
 
-## 💬 Real-Time Chat Interface
+##  Real-Time Chat Interface
 - Live messaging UI  
 - Typing indicator  
 - Socket.io (frontend)  
